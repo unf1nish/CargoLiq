@@ -14,7 +14,7 @@ Este proyecto es especialmente útil para proyectos de investigación relacionad
 
 El liquidador está desplegado y listo para usar sin ninguna instalación:
 
-**[https://unf1nish.github.io/Liquidador-Fbe-2026/](https://unf1nish.github.io/Liquidador-Fbe-2026/)**
+**[https://unf1nish.github.io/CargoLiq/](https://unf1nish.github.io/CargoLiq/)**
 
 Simplemente abre el enlace en tu navegador, selecciona la modalidad (**Aéreo** o **Marítimo FCL**) e ingresa los datos.
 
@@ -26,7 +26,7 @@ Si deseas personalizar las tarifas o adaptar el liquidador a tus necesidades, pu
 
 1. Descarga o clona el repositorio:
    ```bash
-   git clone https://github.com/unf1nish/Liquidador-Fbe-2026.git
+   git clone https://github.com/unf1nish/CargoLiq.git
 
 ## Aviso Legal / Disclaimer
 
